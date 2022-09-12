@@ -1,0 +1,117 @@
+[Sun Sep 11 22:38:51 CST 2022]: 
+------------服务器启动------------
+[Sun Sep 11 22:38:55 CST 2022]: 客户端连接成功：Client{clientName='潇傑', clientIp=/192.168.231.37, clientSocket=Socket[addr=/192.168.231.37,port=50511,localport=7103]}
+[Sun Sep 11 22:38:55 CST 2022]: 当前客户端列表：[Client{clientName='潇傑', clientIp=/192.168.231.37, clientSocket=Socket[addr=/192.168.231.37,port=50511,localport=7103]}]
+[Sun Sep 11 22:38:57 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:03 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:03 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:03 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:04 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:04 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:04 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:05 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:05 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:05 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:08 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:09 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:10 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:10 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:10 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:11 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:11 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:11 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:12 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:12 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:13 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:13 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:13 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:14 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:14 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:15 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:15 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:16 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:16 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:21 CST 2022]: 客户端重复！
+[Sun Sep 11 22:39:21 CST 2022]: 客户端重复！
+[Sun Sep 11 22:41:30 CST 2022]: 客户端连接成功：Client{clientName='1', clientIp=/192.168.231.37, clientSocket=Socket[addr=/192.168.231.37,port=50558,localport=7103]}
+[Sun Sep 11 22:41:30 CST 2022]: 当前客户端列表：[Client{clientName='潇傑', clientIp=/192.168.231.37, clientSocket=Socket[addr=/192.168.231.37,port=50511,localport=7103]}, Client{clientName='1', clientIp=/192.168.231.37, clientSocket=Socket[addr=/192.168.231.37,port=50558,localport=7103]}]
+[Sun Sep 11 22:42:09 CST 2022]: 
+------------服务器启动------------
+[Sun Sep 11 22:42:16 CST 2022]: 客户端连接成功：1
+[Sun Sep 11 22:42:16 CST 2022]: 当前客户端列表：[1]
+[Sun Sep 11 22:42:36 CST 2022]: 客户端连接成功：1dawdaw
+[Sun Sep 11 22:42:36 CST 2022]: 当前客户端列表：[1, 1dawdaw]
+[Sun Sep 11 22:50:22 CST 2022]: 
+------------服务器启动------------
+[Sun Sep 11 22:50:27 CST 2022]: 客户端连接成功：1dawdaw
+[Sun Sep 11 22:50:27 CST 2022]: 当前客户端列表：[1dawdaw]
+[Sun Sep 11 22:51:39 CST 2022]: 
+------------服务器启动------------
+[Sun Sep 11 22:51:44 CST 2022]: 客户端连接成功：1dawdaw
+[Sun Sep 11 22:51:44 CST 2022]: 当前客户端列表：[1dawdaw]
+[Sun Sep 11 22:53:51 CST 2022]: 
+------------服务器启动------------
+[Sun Sep 11 22:53:57 CST 2022]: 客户端连接成功：1dawdaw
+[Sun Sep 11 22:53:57 CST 2022]: 当前客户端列表：[1dawdaw]
+[Sun Sep 11 22:53:57 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:00 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:03 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:06 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:09 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:12 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:15 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:18 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:21 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:24 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:27 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:30 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:33 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:36 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:39 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:42 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:45 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:48 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:51 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:54 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:54:57 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:55:00 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:55:03 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:55:06 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:55:09 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:55:12 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:55:15 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:55:18 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:55:21 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:55:24 CST 2022]: 客户端  1dawdaw  在线
+[Sun Sep 11 22:56:11 CST 2022]: 
+------------服务器启动------------
+[Sun Sep 11 22:56:11 CST 2022]: 客户端连接成功：1dawdaw
+[Sun Sep 11 22:56:11 CST 2022]: 当前客户端列表：[1dawdaw]
+[Sun Sep 11 22:56:49 CST 2022]: 客户端1dawdaw掉线
+[Sun Sep 11 22:57:33 CST 2022]: 客户端连接成功：1dawdaw
+[Sun Sep 11 22:57:33 CST 2022]: 当前客户端列表：[1dawdaw]
+[Sun Sep 11 22:57:43 CST 2022]: 客户端1dawdaw掉线
+[Sun Sep 11 23:05:00 CST 2022]: 
+------------服务器启动------------
+[Sun Sep 11 23:05:05 CST 2022]: 客户端连接成功：1dawdaw
+[Sun Sep 11 23:05:05 CST 2022]: 当前客户端列表：[1dawdaw]
+[Sun Sep 11 23:05:31 CST 2022]: 
+------------服务器启动------------
+[Sun Sep 11 23:05:35 CST 2022]: 客户端连接成功：1dawdaw
+[Sun Sep 11 23:05:35 CST 2022]: 当前客户端列表：[1dawdaw]
+[Sun Sep 11 23:05:35 CST 2022]: 客户端1dawdaw掉线
+[Sun Sep 11 23:05:55 CST 2022]: 
+------------服务器启动------------
+[Sun Sep 11 23:06:03 CST 2022]: 客户端连接成功：1dawdaw
+[Sun Sep 11 23:06:03 CST 2022]: 当前客户端列表：[1dawdaw]
+[Sun Sep 11 23:06:43 CST 2022]: 
+------------服务器启动------------
+[Sun Sep 11 23:06:43 CST 2022]: 客户端连接成功：1dawdaw
+[Sun Sep 11 23:06:43 CST 2022]: 当前客户端列表：[1dawdaw]
+[Sun Sep 11 23:06:47 CST 2022]: 客户端1dawdaw掉线
+[Sun Sep 11 23:06:54 CST 2022]: 客户端连接成功：1dawdaw
+[Sun Sep 11 23:06:54 CST 2022]: 当前客户端列表：[1dawdaw]
+[Sun Sep 11 23:07:03 CST 2022]: 客户端1dawdaw掉线
+[Sun Sep 11 23:07:24 CST 2022]: 客户端连接成功：1dawdaw
+[Sun Sep 11 23:07:24 CST 2022]: 当前客户端列表：[1dawdaw]
+[Sun Sep 11 23:07:27 CST 2022]: 客户端1dawdaw掉线
